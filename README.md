@@ -1,2 +1,2 @@
 # Lamlein.github.io
-test website
+Demo version of website 1.0 
